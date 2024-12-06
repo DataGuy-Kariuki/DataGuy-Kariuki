@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi 👋🏼!
 
-<!--
-**DataGuy-Kariuki/DataGuy-Kariuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Kariuki Reuben], a [Senior Data Analyst].
 
-Here are some ideas to get you started:
+Since [2021], I have worked in [data field]. Most of my career to date has been spent as a [analyst], but recently, I [Product managemt]. I love working on [data science projects, e.g., visualization, analytics, open-source projects, etc.].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- SQL
+- R
+- Python
+- Tableau
+- Power BI
+- Excel
+
+### 🌐 Find Me Online
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
