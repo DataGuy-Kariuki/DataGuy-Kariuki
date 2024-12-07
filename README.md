@@ -5,9 +5,10 @@ I'm Kariuki Reuben, a Senior Data Analyst with expertise in uncovering actionabl
 
 Since 2021, I've been immersed in the dynamic world of data, applying my analytical skills to solve complex challenges and support decision-making across various industries. My career has been rooted in data analytics, but recently, I’ve also ventured into product management, enhancing my ability to align data strategies with business objectives.
 
-I’m passionate about working on impactful projects, including data visualization, predictive analytics, and open-source initiatives, while continually expanding my technical skills and exploring innovative applications of data science.
+I’m passionate about working on impactful projects, including data visualization, predictive analytics, and open-source initiatives, while continually expanding my technical skills and exploring innovative data science applications.
 
 🛠 Technical Skills
+
 SQL: Advanced querying, database management, and ETL processes
 R: Data analysis, visualization, and Shiny app development
 Python: Machine learning, data wrangling, and automation
