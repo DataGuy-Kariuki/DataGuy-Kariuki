@@ -1,4 +1,6 @@
 Hi there! 👋🏼
+
+
 I'm Kariuki Reuben, a Senior Data Analyst with expertise in uncovering actionable insights and building data-driven solutions.
 
 Since 2021, I've been immersed in the dynamic world of data, applying my analytical skills to solve complex challenges and support decision-making across various industries. My career has been rooted in data analytics, but recently, I’ve also ventured into product management, enhancing my ability to align data strategies with business objectives.
