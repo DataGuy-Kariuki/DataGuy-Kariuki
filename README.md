@@ -36,10 +36,12 @@ Open Source: Giving back to the data science community with innovative tools and
 Curious to collaborate or chat about all things data? Hit me up:
 📍 LinkedIn
 [LinkedIn] (https://www.linkedin.com/in/kr2026/)
+[Website]  (https://dataguy-kariuki.github.io/Friday.com/)
 
 💻 GitHub Stats:
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
 
 🎤 Ready to rock your data world? Let’s make it happen.
 
