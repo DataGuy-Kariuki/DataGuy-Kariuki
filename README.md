@@ -47,13 +47,6 @@ Senior Data Analyst with 4+ years of experience in turning complex data into act
 
 [🔗 Portfolio Website](https://dataguy-kariuki.github.io/Friday.com/)
 
-**Recent Work:**
-1. [Project Name] - Brief description and impact
-2. [Project Name] - Brief description and impact
-3. [Open Source Contribution] - Contribution details
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to interesting collaborations and data conversations!
