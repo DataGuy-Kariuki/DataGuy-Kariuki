@@ -32,9 +32,9 @@ Senior Data Analyst with 4+ years of experience in turning complex data into act
 ## 🚀 Professional Highlights
 
 **Data Analysis Expertise:**
-- Designed and implemented analytics solutions for [X] organizations
-- Reduced reporting time by [Y]% through automation
-- Developed predictive models improving [Z] metric by [W]%
+- Designed and implemented analytics solutions for Berry organizations
+- Reduced reporting time by 5% through automation
+- Developed predictive models improving reporting metric by 10%
 
 **Product Strategy:**
 - Recently expanded into product management
